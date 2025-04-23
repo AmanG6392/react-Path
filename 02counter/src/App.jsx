@@ -10,7 +10,7 @@ function App() {
   const addvalue = () => {
     
    setCounter(counter +1 );
-   
+   setCounter(counter +1 );
   }
   const removevalue = () => {
     setCounter(counter - 1 );
